@@ -1,0 +1,7 @@
+Local private-implementation test run; selected verbatim summary.
+Snapshot date: 2026-10-10 (Europe/London).
+Providers mocked; temporary fixtures. This is not public CI.
+
+Ran 702 tests in 50.172s
+
+OK

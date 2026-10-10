@@ -1,0 +1,17 @@
+# This repository must contain only curated showcase materials.
+.env
+.env.*
+.secrets/
+.builds/
+episodes/
+discovery/
+asset-cache/
+work/
+reviews/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.wav
+*.mp4
+.DS_Store

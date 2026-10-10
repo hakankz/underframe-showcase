@@ -1,0 +1,12 @@
+Local renderer test run; selected verbatim summary.
+Snapshot date: 2026-10-10 (Europe/London).
+This is not public CI.
+
+ℹ tests 24
+ℹ suites 0
+ℹ pass 24
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1042.536667

@@ -1,0 +1,14 @@
+{
+  "snapshot_date": "2026-10-10",
+  "episode": "011",
+  "quality_status": "passed",
+  "duration_seconds": 268.622,
+  "word_count": 707,
+  "segment_count": 13,
+  "words_per_minute": 157.92,
+  "failures": [],
+  "limitations": [
+    "Does not judge pronunciation, emotional delivery, voice identity, or word-level accuracy"
+  ],
+  "source": "Selected fields from saved local audio quality and narration manifest; provider settings, identifiers and text excluded."
+}
